@@ -1,6 +1,3 @@
-🏠 House Price Prediction using Machine Learning
-📌 Project Overview
-
 The House Price Prediction project uses Machine Learning algorithms to estimate the price of a house based on various features such as size, location, number of rooms, and other property details.
 
 The system analyzes historical housing data and predicts property prices using trained machine learning models. This project demonstrates how Artificial Intelligence and data analysis can be applied in the real estate industry.
@@ -10,6 +7,7 @@ To build a machine learning model that predicts house prices.
 To analyze housing data and identify factors affecting house prices.
 To implement data preprocessing, model training, and prediction.
 To improve prediction accuracy using machine learning techniques.
+
 🛠 Technologies Used
 Python – Programming language
 NumPy – Numerical computation
@@ -17,8 +15,8 @@ Pandas – Data processing and analysis
 Scikit-learn – Machine learning algorithms
 Matplotlib / Seaborn – Data visualization
 Jupyter Notebook / VS Code – Development environment
-📊 Features
 
+📊 Features
 ✔ Data preprocessing and cleaning
 ✔ Feature selection and analysis
 ✔ Machine learning model training
@@ -37,6 +35,7 @@ House-Price-Prediction/
 │
 ├── requirements.txt         # Required libraries
 └── README.md                # Project documentation
+
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/house-price-prediction.git
